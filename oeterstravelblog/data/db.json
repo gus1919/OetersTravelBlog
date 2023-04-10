@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "my new website", 
+            "body": "Some text", 
+            "author": "Gus", 
+            "id": 1
+        },
+        {
+            "title": "Another website", 
+            "body": "Some text", 
+            "author": "Gus", 
+            "id": 2
+        },
+        {
+            "title": "Third website", 
+            "body": "'Some text'", 
+            "author": "Rex", 
+            "id": 3
+        }
+        ]
+}
